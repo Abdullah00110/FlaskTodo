@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Victor Mono", monospace;
+
+}
+
+.todo {
+    color: rgba(19, 168, 19, 0.671);
+    font-size: 18px;
+}
+
+.todo input {
+    border: 1px solid rgb(194, 87, 87);
+}
+
+.navbar-dark .container-fluid .navbar-brand {
+    color: aqua;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: aqua;
+}
+
+.navbar-dark .navbar-nav .nav-link.active:hover {
+    color: rgba(11, 204, 27, 0.795);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: aqua;
+}
+
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(11, 204, 27, 0.795);
+}
